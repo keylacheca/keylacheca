@@ -6,7 +6,7 @@ My academic and career interests focus on image processing and developing deep l
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning to achieve the Google Data Analytics Professional Certificate.
 - 👯 I’m looking to collaborate on new DP and ML projects
 - 💬 Ask me about methodologies using DP and ML related to agricultural projects.
 - 📫 How to reach me: [www.linkedin.com/in/keyla-checa-roman/] (https://www.linkedin.com/in/keyla-checa-roman/)
