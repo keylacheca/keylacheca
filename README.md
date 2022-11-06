@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [www.linkedin.com/in/keyla-checa-roman/] (https://www.linkedin.com/in/keyla-checa-roman/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a chess player in my free time :)
--->
