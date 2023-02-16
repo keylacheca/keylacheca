@@ -1,7 +1,7 @@
 ### Hello, I'm Keyla! 👋
 
-I have a BASc degree in Electrical and Mechanical Engineering from Universidad de Piura, focusing on Artificial intelligence. At the moment, I am finishing my undergraduate thesis under the supervision of a Ph.D. William Ipanaque to i) develop Machine Learning and Deep Learning methodologies using hyperspectral images ii) analyze spectral band selection methodologies to reduce the number of input variables.
-My previous research experiences include an internship at Politecnico di Milano with Matteo Matteucci for computer and robotics vision using ROS and Universidad de Piura for Machine Learning models to determine the physicochemical parameters of cocoa crops.
+Electrical and Mechanical Engineer from Universidad de Piura. I have finished my undergraduate thesis under the supervision of Ph.D. William Ipanaque to i) develop Machine Learning and Deep Learning methodologies using hyperspectral images ii) analyze spectral band selection methodologies to reduce the number of input variables.
+My previous research experiences include an internship at Politecnico di Milano under the supervision pf Ph.D. Matteo Matteucci focused in developing algorithms using ROS to manage RGB cameras of a robot and at Universidad de Piura related to Machine Learning models for determine the physicochemical parameters of cocoa crops.
 My academic and career interests focus on image processing and developing deep learning models using hyperspectral imaging technologies related to agricultural projects.
 
 Here are some ideas to get you started:
