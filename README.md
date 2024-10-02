@@ -1,4 +1,4 @@
-### Hello, I'm Keyla! 👋
+## Hi, I'm Keyla! 
 
 Mechanical-Electrical Engineer from Universidad de Piura and currently I'm a data analyst. I have finished my undergraduate thesis under the supervision of Ph.D. William Ipanaque to i) develop Machine Learning and Deep Learning methodologies using hyperspectral images ii) analyze spectral band selection methodologies to reduce the number of input variables.
 My previous research experiences include an internship at Politecnico di Milano under the supervision pf Ph.D. Matteo Matteucci focused in developing algorithms using ROS to manage RGB cameras of a robot and at Universidad de Piura related to Machine Learning models for determine the physicochemical parameters of cocoa crops.
